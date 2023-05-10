@@ -6,7 +6,6 @@
     - Text Mesh Pro
     - Buttons
     - Panels
-    - Render Modes
 
 - Scene Change
 - Game Pausing (Time Stoping)
@@ -14,7 +13,7 @@
 
 # Game Play
 
--   Press on start to play the game.
--   Input the words through keyboard to earn score.
--   Don't do mistake, and your score multipier will increase. 
+-   Press start to play game.
+-   Input correct words through keyboard to raise score.
+-   Multiplier will increase when no mistakes are made.
 -   Press escape to pause the game.
