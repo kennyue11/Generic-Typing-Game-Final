@@ -1,4 +1,4 @@
-# Typing Expert
+# Genric Typing Game
 
 # Concepts used
 
