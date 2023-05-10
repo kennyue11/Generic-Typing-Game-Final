@@ -1,4 +1,4 @@
-# Genric Typing Game
+# Generic Typing Game
 
 # Concepts used
 
